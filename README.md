@@ -24,8 +24,9 @@ An AI-based web application that **automatically ranks resumes** based on a give
 
 1️⃣ **Clone the repository**  
 
-git clone https://github.com/yourusername/resume-screening.git
+git clone https://github.com/Pankaj-Padhiyar/AI-Resume-Screening.git
 cd resume-screening
+
 2️⃣ (Optional) Create a Virtual Environment
 
 python -m venv .venv
